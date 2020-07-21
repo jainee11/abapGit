@@ -1,0 +1,4 @@
+@EndUserText.label: 'test service definition'
+define service ZTEST_SD_JV1 {
+  expose I_Currency;
+}

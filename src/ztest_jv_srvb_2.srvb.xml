@@ -42,6 +42,14 @@
           <NAME>ZTEST_SD_JV</NAME>
          </SRVD_REF>
         </item>
+        <item>
+         <SERVICE_VERSION>0002</SERVICE_VERSION>
+         <SRVD_REF>
+          <URI>/sap/bc/adt/ddic/srvd/sources/ztest_sd_jv1</URI>
+          <TYPE>SRVD/SRV</TYPE>
+          <NAME>ZTEST_SD_JV1</NAME>
+         </SRVD_REF>
+        </item>
        </SERVICE_CONTENT>
       </item>
      </SERVICES>
