@@ -1,0 +1,4 @@
+@EndUserText.label: 'testing'
+define service Ztest_sd_jv {
+  expose I_Currency;
+}
